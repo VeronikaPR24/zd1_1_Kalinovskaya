@@ -1,0 +1,14 @@
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\obj\Debug\net8.0\zd1_Kalinovskaya.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\obj\Debug\net8.0\zd1_Kalinovskaya.AssemblyInfoInputs.cache
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\obj\Debug\net8.0\zd1_Kalinovskaya.AssemblyInfo.cs
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\obj\Debug\net8.0\zd1_Kalinovskaya.csproj.CoreCompileInputs.cache
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\bin\Debug\net8.0\zd1_Kalinovskaya.exe
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\bin\Debug\net8.0\zd1_Kalinovskaya.deps.json
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\bin\Debug\net8.0\zd1_Kalinovskaya.runtimeconfig.json
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\bin\Debug\net8.0\zd1_Kalinovskaya.dll
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\bin\Debug\net8.0\zd1_Kalinovskaya.pdb
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\obj\Debug\net8.0\zd1_Kalinovskaya.dll
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\obj\Debug\net8.0\refint\zd1_Kalinovskaya.dll
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\obj\Debug\net8.0\zd1_Kalinovskaya.pdb
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\obj\Debug\net8.0\zd1_Kalinovskaya.genruntimeconfig.cache
+C:\Users\churka\Desktop\колледж\все алгоритмы\2 курс\уп\zd1_kalinovskaya\zd1_Kalinovskaya\zd1_Kalinovskaya\obj\Debug\net8.0\ref\zd1_Kalinovskaya.dll

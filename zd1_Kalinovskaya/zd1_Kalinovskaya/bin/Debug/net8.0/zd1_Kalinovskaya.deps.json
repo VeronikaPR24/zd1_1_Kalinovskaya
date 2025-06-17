@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "zd1_Kalinovskaya/1.0.0": {
+        "runtime": {
+          "zd1_Kalinovskaya.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "zd1_Kalinovskaya/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
